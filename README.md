@@ -49,7 +49,7 @@ Tabela de conteúdos
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Imagem de um App funcionando" title="App rocketshoes, desafio do Ignite" src="https://raw.githubusercontent.com/andressa-lw/ignite-desafio01/master/.github/layout.gif" />
+  <img alt="Imagem do layout" src="https://raw.githubusercontent.com/andressa-lw/ignite-desafio01/master/.github/layout.gif" />
 </p>
 
 ---
