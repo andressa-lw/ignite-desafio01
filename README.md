@@ -49,7 +49,7 @@ Tabela de conteúdos
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <video width:"100%" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/04e38cba-e14d-4512-a4fa-ee24152ab75f/challenge2.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220704%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220704T223559Z&X-Amz-Expires=86400&X-Amz-Signature=2afa16386af3adcfb7a87b6ee1034dfa0664e2268db1b1a24cee2609b5329e49&X-Amz-SignedHeaders=host&x-id=GetObject" />
+  <video width="100%" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/04e38cba-e14d-4512-a4fa-ee24152ab75f/challenge2.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220704%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220704T223559Z&X-Amz-Expires=86400&X-Amz-Signature=2afa16386af3adcfb7a87b6ee1034dfa0664e2268db1b1a24cee2609b5329e49&X-Amz-SignedHeaders=host&x-id=GetObject" />
 </p>
 
 ---
